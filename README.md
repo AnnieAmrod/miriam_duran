@@ -51,11 +51,11 @@ Antes de llevar a cabo cualquiera de mis ideas de packaging, siempre realizo pru
 
 ## Diseño gráfico de elementos y maquetación de obra propia
 
-<iframe width="1206" height="678" src="https://www.youtube.com/embed/-W28t-UGl3o" title="NUEVO LIBRO "La Vida Tranquila"" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1206" height="678" src="https://www.youtube.com/embed/-W28t-UGl3o" title="NUEVO LIBRO 'La Vida Tranquila'" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-##Presentación interiores de la obra
+## Presentación interiores de la obra
 
-<iframe width="1189" height="669" src="https://www.youtube.com/embed/VkGIh9FHj1U" title="NUEVO LIBRO "La Vida Tranquila"" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1189" height="669" src="https://www.youtube.com/embed/VkGIh9FHj1U" title="NUEVO LIBRO 'La Vida Tranquila'" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br/>
 
