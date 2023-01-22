@@ -40,7 +40,7 @@ Y los módulos que me han gustado han sido:
 
 Antes de llevar a cabo cualquiera de mis ideas de packaging, siempre realizo pruebas con Cinema 4D para visualizar el funcionamiento real de mi packaging.
 
-<video width="100%" controls poster="videos/portadas/portada.jpg">
+<video width="100%" height="100%" controls poster="videos/portadas/portada.jpg">
   <source src="videos/Final_Miriam_Duran_Cinema.mp4" type="video/mp4">
   <source src="videos/Final_Miriam_Duran_Cinema.ogg" type="video/ogg">
   <img src="videos/portadas/portada.jpg" alt="Video no soportado">
@@ -51,11 +51,11 @@ Antes de llevar a cabo cualquiera de mis ideas de packaging, siempre realizo pru
 
 ## Diseño gráfico de elementos y maquetación de obra propia
 
-<iframe width="100%" src="https://www.youtube.com/embed/-W28t-UGl3o" title="NUEVO LIBRO - La Vida Tranquila" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/-W28t-UGl3o" title="NUEVO LIBRO - La Vida Tranquila" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Presentación interiores de la obra
 
-<iframe width="100%" src="https://www.youtube.com/embed/VkGIh9FHj1U" title="NUEVO LIBRO - La Vida Tranquila" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/VkGIh9FHj1U" title="NUEVO LIBRO - La Vida Tranquila" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br/>
 
